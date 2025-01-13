@@ -1,5 +1,5 @@
 {
-  "name": "my-2022-cli",
+  "name": "my-build-cli",
   "version": "1.1.0",
   "description": "一个mini版的脚手架",
   "main": "./bin/www.js",
@@ -14,7 +14,7 @@
     "my-yuan-cli",
     "自定义脚手架"
   ],
-  "author": "海阔天空",
+  "author": "shepard",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",

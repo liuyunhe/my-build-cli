@@ -1,14 +1,14 @@
-## my-2022-cli
+## my-build-cli
 
 一个 mini 版的自定义脚手架
 
 ### 安装
 
-npm install my-2022-cli -g
+npm install my-build-cli -g
 
 ### 使用说明
 
-1）通过 my-2022-cli create appName 创建项目
+1）通过 my-build-cli create appName 创建项目
 
 2）author? 输入项目作者
 
